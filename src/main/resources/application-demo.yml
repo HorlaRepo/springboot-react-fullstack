@@ -1,0 +1,10 @@
+
+server:
+  port: 5000
+
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://fullstackspringbootdb.cj6mjtnswdb4.us-east-1.rds.amazonaws.com:5432
+    username: shizzy0
+    password: Mymail22
+    pool-size: 30
